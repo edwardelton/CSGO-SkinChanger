@@ -38,9 +38,9 @@
 
 <p align="center">
     <b>Informations</b><br>
-    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/edwardelton/CS:GO-SkinChanger?color=313131">
-    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/edwardelton/CS:GO-SkinChanger?color=313131">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/edwardelton/CS:GO-SkinChanger?color=313131">
-    <img alt="GitHub" src="https://img.shields.io/github/license/edwardelton/CS:GO-SkinChanger?color=313131">
-    <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/edwardelton/CS:GO-SkinChanger?color=313131">
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/edwardelton/CSGO-SkinChanger?color=313131">
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/edwardelton/CSGO-SkinChanger?color=313131">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/edwardelton/CSGO-SkinChanger?color=313131">
+    <img alt="GitHub" src="https://img.shields.io/github/license/edwardelton/CSGO-SkinChanger?color=313131">
+    <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/edwardelton/CSGO-SkinChanger?color=313131">
 </p>
