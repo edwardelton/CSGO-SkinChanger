@@ -14,12 +14,18 @@
 
 <br/>
 
+> # To Improve.
+
+* **Add more weapon.**
+
 > # To-Do.
 
 * ***You will need to change the offsets probably***
 
 **In config/offsets.h replace the <a href="https://github.com/frk1/hazedumper/blob/master/csgo.hpphttps://github.com/frk1/hazedumper/blob/master/csgo.hpp">offset</a> with the right one.** <br/>
+
 **Compile the code with multi-bytes over unicode.**
+**Return the skin ID you want.**
 
 <br/>
 
