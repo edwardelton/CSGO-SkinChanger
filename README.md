@@ -7,7 +7,7 @@
 ----
 
 <p align="center">
-    <img src="https://i.ytimg.com/vi/AkDGvw_WjcE/maxresdefault.jpg" alt="Rabbit" width="428">
+    <img src="https://win.gg/cdn-cgi/image/width=1591,height=899,fit=crop,quality=80,format=auto,onerror=redirect,metadata=none/wp-content/uploads/2021/08/how-to-trade-and-sell-csgo-skins-for-real-money-outside-of-steam.png" alt="Show Off" width="428">
 </p>
 
 ---
@@ -38,9 +38,9 @@
 
 <p align="center">
     <b>Informations</b><br>
-    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/edwardelton/csgo_skinchanger?color=313131">
-    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/edwardelton/csgo_skinchanger?color=313131">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/edwardelton/csgo_skinchanger?color=313131">
-    <img alt="GitHub" src="https://img.shields.io/github/license/edwardelton/csgo_skinchanger?color=313131">
-    <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/edwardelton/csgo_skinchanger?color=313131">
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/edwardelton/CS:GO-SkinChanger?color=313131">
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/edwardelton/CS:GO-SkinChanger?color=313131">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/edwardelton/CS:GO-SkinChanger?color=313131">
+    <img alt="GitHub" src="https://img.shields.io/github/license/edwardelton/CS:GO-SkinChanger?color=313131">
+    <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/edwardelton/CS:GO-SkinChanger?color=313131">
 </p>
