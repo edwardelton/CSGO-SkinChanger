@@ -7,7 +7,7 @@
 ----
 
 <p align="center">
-    <img src="https://win.gg/cdn-cgi/image/width=1591,height=899,fit=crop,quality=80,format=auto,onerror=redirect,metadata=none/wp-content/uploads/2021/08/how-to-trade-and-sell-csgo-skins-for-real-money-outside-of-steam.png" alt="Show Off" width="428">
+    <img src="https://win.gg/cdn-cgi/image/width=1591,height=899,fit=crop,quality=80,format=auto,onerror=redirect,metadata=none/wp-content/uploads/2021/08/how-to-trade-and-sell-csgo-skins-for-real-money-outside-of-steam.png" alt="Show Off" width="500">
 </p>
 
 ---
